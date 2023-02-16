@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/erol23.github.io/horoscopes-app/static/css/main.4913b21c.css",
+    "main.js": "/erol23.github.io/horoscopes-app/static/js/main.8817ae77.js",
+    "static/js/787.ea2b3b87.chunk.js": "/erol23.github.io/horoscopes-app/static/js/787.ea2b3b87.chunk.js",
+    "static/media/logo.png": "/erol23.github.io/horoscopes-app/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/erol23.github.io/horoscopes-app/index.html",
+    "main.4913b21c.css.map": "/erol23.github.io/horoscopes-app/static/css/main.4913b21c.css.map",
+    "main.8817ae77.js.map": "/erol23.github.io/horoscopes-app/static/js/main.8817ae77.js.map",
+    "787.ea2b3b87.chunk.js.map": "/erol23.github.io/horoscopes-app/static/js/787.ea2b3b87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4913b21c.css",
+    "static/js/main.8817ae77.js"
+  ]
+}
